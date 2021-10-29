@@ -1,3 +1,3 @@
-# Analise-dados-python-pandas
+# DIO_Bootcamp_Cognizant
  
-Reposítório criado durante as aulas assistidas sobre Análise de dados com Python e Pandas.
+Eeste é um repositorio com as atividades do Bootcamp da Cognizant.
